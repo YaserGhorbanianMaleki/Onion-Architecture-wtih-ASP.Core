@@ -1,0 +1,20 @@
+﻿@page
+@model EditModel
+@{
+}
+
+<form method="post">
+    <div class="row">
+        <div class="col-md-12">
+            <label asp-for="@Model.command.Id">Id</label>
+            <input type="hidden" asp-for="@Model.command.Id" class="form-control" />
+        </div>
+        <div class="col-md-12">
+            <label asp-for="@Model.command.Name">Id</label>
+            <input type="text" asp-for="@Model.command.Name" class="form-control" />
+        </div>
+        <div class="col-md-12">
+            <button class="btn-success">Edit</button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,36 @@
+﻿@page
+@model EfCoreProject.Presentation.Pages.Product.IndexModel
+@{
+}
+
+<div class="row">
+    <div class="col-12">
+        <a asp-page="Create" class=" btn btn-success col-2">Create new</a>
+    </div>
+</div>
+<table class="table table-bordered table-striped table-responsive">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>UnitPrice</th>
+        <th>CreationDate</th>
+        <th>ProducCategory</th>
+        <td>Operation</td>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var productViewModel in Model.productViewModels)
+    {
+        <tr>
+            <td>@productViewModel.Name</td>
+            <td>@productViewModel.UnitPrice</td>
+            <td>@productViewModel.CreationDate</td>
+            <td>@productViewModel.ProductCategoryName</td>
+            <td>
+                <a asp-page="Edit" asp-route-id="@productViewModel.Id" class="btn-success">Edit</a>
+                <a asp-page="Index" asp-route-id="@productViewModel.Id" class="btn-warning">Disable</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

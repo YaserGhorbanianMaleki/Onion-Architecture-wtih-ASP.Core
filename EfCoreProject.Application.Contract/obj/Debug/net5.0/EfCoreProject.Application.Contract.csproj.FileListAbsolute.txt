@@ -1,0 +1,12 @@
+D:\EfCoreProject\EfCoreProject.Application.Contract\bin\Debug\net5.0\EfCoreProject.Application.Contract.deps.json
+D:\EfCoreProject\EfCoreProject.Application.Contract\bin\Debug\net5.0\EfCoreProject.Application.Contract.dll
+D:\EfCoreProject\EfCoreProject.Application.Contract\bin\Debug\net5.0\ref\EfCoreProject.Application.Contract.dll
+D:\EfCoreProject\EfCoreProject.Application.Contract\bin\Debug\net5.0\EfCoreProject.Application.Contract.pdb
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\EfCoreProject.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\EfCoreProject.Application.Contract.AssemblyInfoInputs.cache
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\EfCoreProject.Application.Contract.AssemblyInfo.cs
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\EfCoreProject.Application.Contract.csproj.CoreCompileInputs.cache
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\EfCoreProject.Application.Contract.dll
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\ref\EfCoreProject.Application.Contract.dll
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\EfCoreProject.Application.Contract.pdb
+D:\EfCoreProject\EfCoreProject.Application.Contract\obj\Debug\net5.0\EfCoreProject.Application.Contract.csproj.AssemblyReference.cache

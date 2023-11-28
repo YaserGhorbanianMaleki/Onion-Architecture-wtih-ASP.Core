@@ -1,0 +1,12 @@
+D:\EfCoreProject\EfCoreProject.Domain\bin\Debug\net5.0\EfCoreProject.Domain.deps.json
+D:\EfCoreProject\EfCoreProject.Domain\bin\Debug\net5.0\EfCoreProject.Domain.dll
+D:\EfCoreProject\EfCoreProject.Domain\bin\Debug\net5.0\ref\EfCoreProject.Domain.dll
+D:\EfCoreProject\EfCoreProject.Domain\bin\Debug\net5.0\EfCoreProject.Domain.pdb
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\EfCoreProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\EfCoreProject.Domain.AssemblyInfoInputs.cache
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\EfCoreProject.Domain.AssemblyInfo.cs
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\EfCoreProject.Domain.csproj.CoreCompileInputs.cache
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\EfCoreProject.Domain.dll
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\ref\EfCoreProject.Domain.dll
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\EfCoreProject.Domain.pdb
+D:\EfCoreProject\EfCoreProject.Domain\obj\Debug\net5.0\EfCoreProject.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿@page
+@model EfCoreProject.Presentation.Pages.ProductCategory.IndexModel
+@{
+}
+<div>
+    <a asp-page="Create" class="btn btn-success">ایجاد</a>
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>نام</th>
+            <th>تاریخ ایجاد</th>
+            <th>عملیات</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var productCategory in Model.productCategoryViewModels)
+            {
+        <tr>
+            <td>@productCategory.Name</td>
+            <td>@productCategory.CreationDate</td>
+            <td><a class="btn btn-success" asp-page="Edit" asp-route-id="@productCategory.Id">Edit</a></td>
+        </tr>
+            }
+    </tbody>
+</table>

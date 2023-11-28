@@ -1,0 +1,25 @@
+﻿@page
+@model EfCoreProject.Presentation.Pages.Product.EditModel
+@{
+}
+
+<form method="post">
+    <div class="container">
+        <div class="row">
+            <input type="hidden" asp-for="command.Id" />
+            <div class="col-6">
+                <label asp-for="command.Name">Name</label>
+                <input type="text" asp-for="command.Name" class="form-control">
+            </div>
+            <div class="col-6">
+                <label asp-for="command.ProductCategoryId">Category</label>
+                <select asp-for="command.ProductCategoryId" asp-items="Model.ProductCategoryList" class="form-control">
+                    <option>Choose an item</option>
+                </select>
+            </div>
+            <div class="col-3">
+                <button type="submit" class="btn-warning">Edit</button>
+            </div>
+        </div>
+    </div>
+</form>
